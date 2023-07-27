@@ -1,0 +1,31 @@
+h1 {
+    text-decoration: overline underline;
+    margin-left: 3cm;
+    margin-top: 2mm;
+    margin-bottom: 1mm;
+}
+
+.CSSVisibility {
+    visibility: hidden;
+}
+
+table {
+    margin-left: 29mm;
+}
+
+button {
+    margin-top: 2mm;
+    margin-bottom: 3mm;
+}
+
+#start-bttn {
+    margin-left: 41mm;
+}
+
+#annul-ui-state-bttn {
+    margin-left: 15mm;
+}
+
+#annul-ui-state-bttn {
+    visibility: hidden;
+}
